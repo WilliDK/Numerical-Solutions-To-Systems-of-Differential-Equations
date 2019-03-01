@@ -72,7 +72,7 @@ def Regression(data):
 
 print(Regression(accumulateData(readData('data.csv'))))
 
-'''
+
 #print(functionRegression([i for i in range(74)], 3.4239/14865, 3.2478, 0.3231))
 
 def gradient_descent(data, parameters, learningRate):
@@ -158,9 +158,9 @@ def squaredDeviation(calcParameters):
         return float('inf')
     return sum
 
-print(gradient_descent(accumulateData(readData('data.csv')), [0.0001, 3, 0.5], 1))
+#print(gradient_descent(accumulateData(readData('data.csv')), [0.0001, 3, 0.5], 1))
 #print(Regression(accumulateData(readData('data.csv'))))
-'''
+
 '''print(findParameters([
     (1,3),
     (1,3),
