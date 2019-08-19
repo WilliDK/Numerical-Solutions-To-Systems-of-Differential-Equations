@@ -1,6 +1,6 @@
 {
   "show" : true,
-  "github" : "https://github.com/williamMBDK/Numerical-Solutions-To-Systems-of-Differential-Equations",
+  "code" : "https://github.com/williamMBDK/Numerical-Solutions-To-Systems-of-Differential-Equations",
   "tags" : ["py", "math"],
   "name" : "Numerical Solutions to Systems of Differential Equations",
   "description" : "A python library for Numerical Solutions To Systems of Differential Equations",
