@@ -5,5 +5,5 @@
   "name" : "Numerical Solutions to Systems of Differential Equations",
   "description" : "A python library for Numerical Solutions To Systems of Differential Equations",
   "view" : null,
-  "multiple" : true
+  "multiple" : false
 }
